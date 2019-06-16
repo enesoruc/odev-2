@@ -1,0 +1,10 @@
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.csprojAssemblyReference.cache
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.Form1.resources
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.csproj.GenerateResource.cache
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\bin\Debug\Soru1.exe.config
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\bin\Debug\Soru1.exe
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\bin\Debug\Soru1.pdb
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.exe
+C:\Users\Eness\source\repos\WindowsFormsApp2\Soru1\obj\Debug\Soru1.pdb
